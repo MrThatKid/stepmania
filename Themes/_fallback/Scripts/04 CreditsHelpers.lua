@@ -97,6 +97,7 @@ local stepmania_credits= {
 		"tuxdude", -- minor changes to service menu layout
 		"v1toko", -- x-mode from StepNXA
 		"Wallacoloo", -- delete songs, other fixes
+		"MrThatKid", -- nitg modifiers
 	},
 	{
 		name= "Special Thanks",
