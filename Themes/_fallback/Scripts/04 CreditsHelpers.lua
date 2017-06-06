@@ -87,6 +87,7 @@ local stepmania_credits= {
 		{logo= "kyzentun", name= "Kyzentun"}, -- new lua bindings, theme documentation
 		"Mad Matt", -- new lua bindings
 		"Matt McCutchen", -- minor fix for some dance pads on linux
+		"MrThatKid", -- nitg modifiers
 		"NitroX72", -- pump/frame noteskin
 		"nixtrix", -- various BMS features and other fixes
 		"Petriform", -- default theme music
@@ -97,7 +98,6 @@ local stepmania_credits= {
 		"tuxdude", -- minor changes to service menu layout
 		"v1toko", -- x-mode from StepNXA
 		"Wallacoloo", -- delete songs, other fixes
-		"MrThatKid", -- nitg modifiers
 	},
 	{
 		name= "Special Thanks",
